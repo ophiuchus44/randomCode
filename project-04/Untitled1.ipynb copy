@@ -1,0 +1,164 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import requests\n",
+    "import html5lib\n",
+    "from bs4 import BeautifulSoup\n",
+    "\n",
+    "\n",
+    "\n",
+    "# soup = BeautifulSoup(requests.get('http://www.careerbuilder.com/jobs-python-in-los-angeles?&pay=20'))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "import "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import requests\n",
+    "from lxml import etree\n",
+    "\n",
+    "url = 'http://www.careerbuilder.com/jobs-python-in-los-angeles?&pay=20'\n",
+    "r = requests.get(url)\n",
+    "tree = etree.HTML(r.text)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "jobsrow = '//*[@id=\"main-content\"]/div[5]/div[2]/div[1]/div[1]/div[2]'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "rows = tree.xpath(jobsrow)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1fc8>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n",
+      "<Element div at 0x1155c13b0>\n",
+      "<Element div at 0x1155c1c20>\n",
+      "<Element div at 0x1155c1d88>\n"
+     ]
+    }
+   ],
+   "source": [
+    "for row in rows:\n",
+    "    for x in row:\n",
+    "        x.getchildren()\n",
+    "        print x"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "row_xpath = '//tr[contains(td[1]/@class, \"fundPriceCell\")]'\n",
+    "\n",
+    "rows = tree.xpath(row_xpath)\n",
+    "\n",
+    "for row in rows:\n",
+    "    (date_string, v1, v2) = (td.text for td in row.getchildren())\n",
+    "    print \"%s - %s - %s\" % (date_string, v1, v2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.11"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

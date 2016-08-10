@@ -1,0 +1,251 @@
+,num_votes,rating,tconst,title,type,year
+0,1678441,9.3,tt0111161,The Shawshank Redemption,feature,1994
+1,1148367,9.2,tt0068646,The Godfather,feature,1972
+2,785278,9.0,tt0071562,The Godfather: Part II,feature,1974
+3,1663623,9.0,tt0468569,The Dark Knight,feature,2008
+4,858978,8.9,tt0108052,Schindler's List,feature,1993
+5,444013,8.9,tt0050083,12 Angry Men,feature,1957
+6,1315610,8.9,tt0110912,Pulp Fiction,feature,1994
+7,1207759,8.9,tt0167260,The Lord of the Rings: The Return of the King,feature,2003
+8,500137,8.9,tt0060196,"The Good, the Bad and the Ugly",feature,1966
+9,1337628,8.8,tt0137523,Fight Club,feature,1999
+10,1231000,8.8,tt0120737,The Lord of the Rings: The Fellowship of the Ring,feature,2001
+11,831495,8.8,tt0080684,Star Wars: Episode V - The Empire Strikes Back,feature,1980
+12,1241266,8.8,tt0109830,Forrest Gump,feature,1994
+13,1457132,8.8,tt1375666,Inception,feature,2010
+14,1093094,8.7,tt0167261,The Lord of the Rings: The Two Towers,feature,2002
+15,675661,8.7,tt0073486,One Flew Over the Cuckoo's Nest,feature,1975
+16,723552,8.7,tt0099685,Goodfellas,feature,1990
+17,1209556,8.7,tt0133093,The Matrix,feature,1999
+18,227634,8.7,tt0047478,Seven Samurai,feature,1954
+19,904944,8.7,tt0076759,Star Wars: Episode IV - A New Hope,feature,1977
+20,529966,8.7,tt0317248,City of God,feature,2002
+21,1016096,8.6,tt0114369,Se7en,feature,1995
+22,880713,8.6,tt0102926,The Silence of the Lambs,feature,1991
+23,273951,8.6,tt0038650,It's a Wonderful Life,feature,1946
+24,735942,8.6,tt0114814,The Usual Suspects,feature,1995
+25,416580,8.6,tt0118799,Life Is Beautiful,feature,1997
+26,720426,8.6,tt0110413,Léon: The Professional,feature,1994
+27,214573,8.6,tt0064116,Once Upon a Time in the West,feature,1968
+28,414311,8.6,tt0245429,Spirited Away,feature,2001
+29,874744,8.6,tt0120815,Saving Private Ryan,feature,1998
+30,777550,8.6,tt0120586,American History X,feature,1998
+31,917151,8.6,tt0816692,Interstellar,feature,2014
+32,385308,8.6,tt0034583,Casablanca,feature,1942
+33,419325,8.5,tt0054215,Psycho,feature,1960
+34,107328,8.6,tt0021749,City Lights,feature,1931
+35,656837,8.5,tt0082971,Raiders of the Lost Ark,feature,1981
+36,498529,8.6,tt1675434,The Intouchables,feature,2011
+37,141839,8.6,tt0027977,Modern Times,feature,1936
+38,776375,8.5,tt0120689,The Green Mile,feature,1999
+39,313895,8.5,tt0047396,Rear Window,feature,1954
+40,740097,8.5,tt0103064,Terminator 2: Judgment Day,feature,1991
+41,867355,8.5,tt0407887,The Departed,feature,2006
+42,494231,8.5,tt0253474,The Pianist,feature,2002
+43,726438,8.5,tt0088763,Back to the Future,feature,1985
+44,392489,8.5,tt2582802,Whiplash,feature,2014
+45,976012,8.5,tt0172495,Gladiator,feature,2000
+46,840209,8.5,tt0209144,Memento,feature,2000
+47,448086,8.5,tt0078788,Apocalypse Now,feature,1979
+48,837463,8.5,tt0482571,The Prestige,feature,2006
+49,638880,8.5,tt0110357,The Lion King,feature,1994
+50,340393,8.5,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,feature,1964
+51,138622,8.5,tt0043014,Sunset Blvd.,feature,1950
+52,559749,8.5,tt0078748,Alien,feature,1979
+53,136474,8.5,tt0032553,The Great Dictator,feature,1940
+54,257676,8.5,tt0405094,The Lives of Others,feature,2006
+55,151168,8.5,tt0095765,Cinema Paradiso,feature,1988
+56,120165,8.5,tt0050825,Paths of Glory,feature,1957
+57,946895,8.5,tt1853728,Django Unchained,feature,2012
+58,605640,8.4,tt0081505,The Shining,feature,1980
+59,136974,8.5,tt0095327,Grave of the Fireflies,feature,1988
+60,713085,8.4,tt0910970,WALL·E,feature,2008
+61,1135737,8.5,tt1345836,The Dark Knight Rises,feature,2012
+62,817317,8.4,tt0169547,American Beauty,feature,1999
+63,485364,8.4,tt0090605,Aliens,feature,1986
+64,219772,8.4,tt0119698,Princess Mononoke,feature,1997
+65,353402,8.4,tt0364569,Oldboy,feature,2003
+66,296187,8.4,tt0033467,Citizen Kane,feature,1941
+67,219451,8.4,tt0087843,Once Upon a Time in America,feature,1984
+68,219059,8.4,tt0053125,North by Northwest,feature,1959
+69,167239,8.4,tt0082096,Das Boot,feature,1981
+70,246996,8.4,tt0052357,Vertigo,feature,1958
+71,62558,8.4,tt0051201,Witness for the Prosecution,feature,1957
+72,676404,8.4,tt0086190,Star Wars: Episode VI - Return of the Jedi,feature,1983
+73,98434,8.4,tt0022100,M,feature,1931
+74,659826,8.4,tt0105236,Reservoir Dogs,feature,1992
+75,732097,8.4,tt0112573,Braveheart,feature,1995
+76,530819,8.4,tt0211915,Amélie,feature,2001
+77,569684,8.4,tt0180093,Requiem for a Dream,feature,2000
+78,554270,8.4,tt0066921,A Clockwork Orange,feature,1971
+79,503278,8.3,tt0075314,Taxi Driver,feature,1976
+80,97106,8.4,tt0036775,Double Indemnity,feature,1944
+81,540424,8.3,tt0435761,Toy Story 3,feature,2010
+82,191496,8.4,tt0056172,Lawrence of Arabia,feature,1962
+83,213459,8.4,tt0056592,To Kill a Mockingbird,feature,1962
+84,662370,8.3,tt0338013,Eternal Sunshine of the Spotless Mind,feature,2004
+85,481529,8.3,tt0093058,Full Metal Jacket,feature,1987
+86,268950,8.3,tt0086879,Amadeus,feature,1984
+87,174388,8.3,tt0070735,The Sting,feature,1973
+88,424237,8.3,tt0062622,2001: A Space Odyssey,feature,1968
+89,93746,8.3,tt0040522,Bicycle Thieves,feature,1948
+90,149050,8.3,tt0045152,Singin' in the Rain,feature,1952
+91,618510,8.3,tt0114709,Toy Story,feature,1995
+92,597328,8.3,tt0208092,Snatch,feature,2000
+93,379897,8.3,tt0071853,Monty Python and the Holy Grail,feature,1975
+94,878009,8.3,tt0361748,Inglourious Basterds,feature,2009
+95,66519,8.3,tt0012349,The Kid,feature,1921
+96,411902,8.3,tt0119488,L.A. Confidential,feature,1997
+97,155992,8.3,tt0059578,For a Few Dollars More,feature,1965
+98,101819,8.3,tt0042876,Rashomon,feature,1950
+99,108581,8.3,tt0053604,The Apartment,feature,1960
+100,533852,8.3,tt0086250,Scarface,feature,1983
+101,511780,8.3,tt0097576,Indiana Jones and the Last Crusade,feature,1989
+102,150729,8.4,tt1832382,A Separation,feature,2011
+103,111105,8.3,tt0017136,Metropolis,feature,1927
+104,82475,8.3,tt0042192,All About Eve,feature,1950
+105,204683,8.4,tt1187043,3 Idiots,feature,2009
+106,73538,8.3,tt0055630,Yojimbo,feature,1961
+107,168110,8.3,tt2106476,The Hunt,feature,2012
+108,973576,8.3,tt0372784,Batman Begins,feature,2005
+109,78717,8.3,tt0040897,The Treasure of the Sierra Madre,feature,1948
+110,600013,8.3,tt0119217,Good Will Hunting,feature,1997
+111,174101,8.3,tt0053291,Some Like It Hot,feature,1959
+112,659820,8.3,tt1049413,Up,feature,2009
+113,275721,8.3,tt0105695,Unforgiven,feature,1992
+114,113015,8.3,tt0041959,The Third Man,feature,1949
+115,27107,8.5,tt0118849,Children of Heaven,feature,1997
+116,233775,8.3,tt0081398,Raging Bull,feature,1980
+117,246912,8.3,tt0363163,Downfall,feature,2004
+118,336518,8.3,tt2096673,Inside Out,feature,2015
+119,588794,8.2,tt0095016,Die Hard,feature,1988
+120,164556,8.3,tt0057115,The Great Escape,feature,1963
+121,214872,8.2,tt0071315,Chinatown,feature,1974
+122,428849,8.2,tt0113277,Heat,feature,1995
+123,152975,8.3,tt3170832,Room,feature,2015
+124,464472,8.2,tt0457430,Pan's Labyrinth,feature,2006
+125,100116,8.3,tt0047296,On the Waterfront,feature,1954
+126,170537,8.3,tt0096283,My Neighbor Totoro,feature,1988
+127,41912,8.3,tt0044741,Ikiru,feature,1952
+128,77249,8.3,tt0089881,Ran,feature,1985
+129,67288,8.3,tt0015864,The Gold Rush,feature,1925
+130,76931,8.3,tt0031679,Mr. Smith Goes to Washington,feature,1939
+131,148337,8.2,tt0050212,The Bridge on the River Kwai,feature,1957
+132,130570,8.2,tt1305806,The Secret in Their Eyes,feature,2009
+133,458941,8.2,tt0083658,Blade Runner,feature,1982
+134,111112,8.2,tt0050976,The Seventh Seal,feature,1957
+135,412544,8.2,tt0120735,"Lock, Stock and Two Smoking Barrels",feature,1998
+136,28953,8.3,tt0018455,Sunrise,feature,1927
+137,212270,8.2,tt0347149,Howl's Moving Castle,feature,2004
+138,331248,8.2,tt0112641,Casino,feature,1995
+139,53179,8.2,tt0017925,The General,feature,1926
+140,62671,8.2,tt0050986,Wild Strawberries,feature,1957
+141,554715,8.2,tt2488496,Star Wars: The Force Awakens,feature,2015
+142,161032,8.2,tt0080678,The Elephant Man,feature,1980
+143,329844,8.2,tt1291584,Warrior,feature,2011
+144,772096,8.2,tt0993846,The Wolf of Wall Street,feature,2013
+145,44019,8.3,tt0055031,Judgment at Nuremberg,feature,1961
+146,605765,8.2,tt0268978,A Beautiful Mind,feature,2001
+147,26116,8.3,tt0046438,Tokyo Story,feature,1953
+148,786406,8.2,tt0434409,V for Vendetta,feature,2005
+149,79534,8.2,tt1255953,Incendies,feature,2010
+150,558592,8.2,tt1205489,Gran Torino,feature,2008
+151,533648,8.2,tt0118715,The Big Lebowski,feature,1998
+152,28878,8.5,tt0074896,The Message,feature,1976
+153,231117,8.2,tt0077416,The Deer Hunter,feature,1978
+154,256537,8.2,tt3498820,Captain America: Civil War,feature,2016
+155,466221,8.2,tt0117951,Trainspotting,feature,1996
+156,86845,8.2,tt0032976,Rebecca,feature,1940
+157,451272,8.2,tt0116282,Fargo,feature,1996
+158,214038,8.2,tt0031381,Gone with the Wind,feature,1939
+159,105606,8.2,tt0046912,Dial M for Murder,feature,1954
+160,119317,8.2,tt0061512,Cool Hand Luke,feature,1967
+161,481490,8.2,tt0892769,How to Train Your Dragon,feature,2010
+162,686125,8.2,tt0266543,Finding Nemo,feature,2003
+163,700540,8.1,tt0167404,The Sixth Sense,feature,1999
+164,256003,8.2,tt0084787,The Thing,feature,1982
+165,607883,8.1,tt0477348,No Country for Old Men,feature,2007
+166,423273,8.2,tt0758758,Into the Wild,feature,2007
+167,118246,8.2,tt0978762,Mary and Max,feature,2009
+168,563844,8.1,tt2267998,Gone Girl,feature,2014
+169,730809,8.1,tt0266697,Kill Bill: Vol. 1,feature,2003
+170,64415,8.2,tt0025316,It Happened One Night,feature,1934
+171,270564,8.1,tt0079470,Life of Brian,feature,1979
+172,309779,8.1,tt1979320,Rush,feature,2013
+173,25629,8.3,tt0050783,Nights of Cabiria,feature,1957
+174,370536,8.1,tt0469494,There Will Be Blood,feature,2007
+175,263029,8.1,tt0395169,Hotel Rwanda,feature,2004
+176,155434,8.2,tt2948356,Zootopia,feature,2016
+177,289752,8.1,tt0091763,Platoon,feature,1986
+178,112442,8.1,tt0033870,The Maltese Falcon,feature,1941
+179,185717,8.1,tt1895587,Spotlight,feature,2015
+180,35156,8.2,tt0046268,The Wages of Fear,feature,1953
+181,102703,8.1,tt0074958,Network,feature,1976
+182,542565,8.1,tt1392190,Mad Max: Fury Road,feature,2015
+183,151124,8.1,tt0064115,Butch Cassidy and the Sundance Kid,feature,1969
+184,779407,8.1,tt1130884,Shutter Island,feature,2010
+185,69727,8.1,tt0053198,The 400 Blows,feature,1959
+186,269597,8.1,tt0092005,Stand by Me,feature,1986
+187,108785,8.1,tt0107207,In the Name of the Father,feature,1993
+188,435034,8.1,tt2024544,12 Years a Slave,feature,2013
+189,61092,8.1,tt0060827,Persona,feature,1966
+190,470066,8.1,tt2278388,The Grand Budapest Hotel,feature,2014
+191,172598,8.1,tt0245712,Amores Perros,feature,2000
+192,479022,8.1,tt0405159,Million Dollar Baby,feature,2004
+193,292442,8.1,tt0093779,The Princess Bride,feature,1987
+194,87749,8.1,tt3011894,Wild Tales,feature,2014
+195,159021,8.1,tt0052618,Ben-Hur,feature,1959
+196,72444,8.1,tt0052311,Touch of Evil,feature,1958
+197,153214,8.1,tt1028532,Hachi: A Dog's Tale,feature,2009
+198,608244,8.1,tt0107290,Jurassic Park,feature,1993
+199,95439,8.1,tt0087544,Nausicaä of the Valley of the Wind,feature,1984
+200,62721,8.1,tt0032551,The Grapes of Wrath,feature,1940
+201,191467,8.1,tt0075686,Annie Hall,feature,1977
+202,455461,8.1,tt1431045,Deadpool,feature,2016
+203,67883,8.1,tt0079944,Stalker,feature,1979
+204,181642,8.1,tt0112471,Before Sunrise,feature,1995
+205,170585,8.1,tt0083987,Gandhi,feature,1982
+206,484542,8.1,tt0440963,The Bourne Ultimatum,feature,2007
+207,662769,8.1,tt0120382,The Truman Show,feature,1998
+208,41747,8.1,tt0046911,Diabolique,feature,1955
+209,66096,8.1,tt0353969,Memories of Murder,feature,2003
+210,577084,8.1,tt0246578,Donnie Darko,feature,2001
+211,392345,8.1,tt1663202,The Revenant,feature,2015
+212,372313,8.1,tt0075148,Rocky,feature,1976
+213,78066,8.1,tt0056801,8½,feature,1963
+214,290065,8.1,tt0032138,The Wizard of Oz,feature,1939
+215,580424,8.1,tt0198781,"Monsters, Inc.",feature,2001
+216,538051,8.1,tt1201607,Harry Potter and the Deathly Hallows: Part 2,feature,2011
+217,596082,8.1,tt0088247,The Terminator,feature,1984
+218,459991,8.1,tt0114746,Twelve Monkeys,feature,1995
+219,40128,8.1,tt0036868,The Best Years of Our Lives,feature,1946
+220,434240,8.1,tt0107048,Groundhog Day,feature,1993
+221,95613,8.1,tt0044079,Strangers on a Train,feature,1951
+222,653592,8.1,tt0401792,Sin City,feature,2005
+223,91205,8.1,tt0338564,Infernal Affairs,feature,2002
+224,25977,8.2,tt0041546,Kind Hearts and Coronets,feature,1949
+225,409548,8.0,tt0073195,Jaws,feature,1975
+226,102720,8.1,tt0113247,La Haine,feature,1995
+227,379751,8.1,tt1392214,Prisoners,feature,2013
+228,100741,8.1,tt0072684,Barry Lyndon,feature,1975
+229,36927,8.1,tt0058946,The Battle of Algiers,feature,1966
+230,181327,8.0,tt0072890,Dog Day Afternoon,feature,1975
+231,459618,8.1,tt3659388,The Martian,feature,2015
+232,519882,8.0,tt0264464,Catch Me If You Can,feature,2002
+233,166427,8.1,tt1220719,Ip Man,feature,2008
+234,460215,8.1,tt2084970,The Imitation Game,feature,2014
+235,804484,8.1,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,feature,2003
+236,316734,8.1,tt1454029,The Help,feature,2011
+237,43017,8.1,tt0083922,Fanny and Alexander,feature,1982
+238,673243,8.1,tt2015381,Guardians of the Galaxy,feature,2014
+239,987929,8.1,tt0848228,The Avengers,feature,2012
+240,146150,8.0,tt0058461,A Fistful of Dollars,feature,1964
+241,98472,8.1,tt0092067,Castle in the Sky,feature,1986
+242,99940,8.1,tt0046250,Roman Holiday,feature,1953
+243,500055,8.0,tt1504320,The King's Speech,feature,2010
+244,31493,8.1,tt0050613,Throne of Blood,feature,1957
+245,79725,8.1,tt0044706,High Noon,feature,1952
+246,44682,8.3,tt1954470,Gangs of Wasseypur,feature,2012
+247,306758,8.0,tt0101414,Beauty and the Beast,feature,1991
+248,75149,8.1,tt0118694,In the Mood for Love,feature,2000
+249,70337,8.2,tt0169102,Lagaan: Once Upon a Time in India,feature,2001

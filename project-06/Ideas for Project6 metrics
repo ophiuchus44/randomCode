@@ -1,0 +1,57 @@
+NLTK package
+
+Troll Detection:
+
+What amount of reviews are troll reviews?
+
+
+RottenTomatoes
+  - list of critics: https://www.rottentomatoes.com/critics/authors
+
+use ratings to determine normal distribution
+http://www.imdb.com/title/tt0111161/ratings
+
+
+
+Which actors do the best (and in which genre of movie)
+
+actor sentiment analysis:
+
+Public:
+What do people think about Jenifer Lawrence?
+    - acting abilities
+        - reviews of movies that mention her name
+    - attractiveness
+        - reivews of movies that mention her attractiveness
+
+PercievedEgoofan Actor
+
+Studio:
+    - profitability (overall/genre based)
+
+Metrics:
+
+AverageMovieReview = based on IMDB/RottenTomatoes scores
+MoviesPerYear =  Count Actor movie roles per year
+ProfitPerMovie = Actor invovled in movie, profit margin average
+ProfitPerGenre = Actor invovledin movie genre, profit margin average per genre
+
+profitper independt movie
+'cultmovie metric'
+
+
+parsing and extracting meaning 
+
+
+Scrape Movie Reviews from 
+
+-imdb/rotten tomatoes
+
+Scrape Movie stats
+
+-imdb budgets/ profits etc boxoffice
+
+need to find overall (including rentals etc)
+
+
+
